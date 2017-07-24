@@ -24,6 +24,12 @@
  */
 
 package java.lang.annotation;
+/**
+ * 定义注解的生命周期
+ * source 编译阶段丢弃
+ * class 类加载阶段丢弃
+ * runtime 始终不会丢弃，可以使用反射机制读取注解信息
+ */
 
 /**
  * Indicates how long annotations with the annotated type are to

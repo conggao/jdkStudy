@@ -26,6 +26,10 @@
 package java.lang.annotation;
 
 /**
+ * 所有注解继承这个接口，在将注释类型从不可重复变为可重复时，讨论兼容性问题。
+ */
+
+/**
  * The common interface extended by all annotation types.  Note that an
  * interface that manually extends this one does <i>not</i> define
  * an annotation type.  Also note that this interface does not itself

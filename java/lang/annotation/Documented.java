@@ -24,6 +24,9 @@
  */
 
 package java.lang.annotation;
+/**
+ * 是否将注解信息添加在java文档中
+ */
 
 /**
  * Indicates that annotations with a type are to be documented by javadoc

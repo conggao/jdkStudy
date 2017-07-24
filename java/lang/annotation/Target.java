@@ -24,6 +24,9 @@
  */
 
 package java.lang.annotation;
+/**
+ * 注解可以用在什么地方
+ */
 
 /**
  * Indicates the contexts in which an annotation type is applicable. The

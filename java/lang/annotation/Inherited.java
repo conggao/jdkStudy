@@ -26,6 +26,10 @@
 package java.lang.annotation;
 
 /**
+ * 注解与自雷的关系
+ */
+
+/**
  * Indicates that an annotation type is automatically inherited.  If
  * an Inherited meta-annotation is present on an annotation type
  * declaration, and the user queries the annotation type on a class

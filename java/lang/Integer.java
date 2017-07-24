@@ -26,6 +26,9 @@
 package java.lang;
 
 import java.lang.annotation.Native;
+/**
+ * int的包装类，封装属性value,最大值，最小值
+ */
 
 /**
  * The {@code Integer} class wraps a value of the primitive type
